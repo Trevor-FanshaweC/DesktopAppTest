@@ -1,6 +1,6 @@
 !["oops, image not found"](bannerImage.jpg "James Webb Nebula Image")
 
-# James Webb Astrophotography
+# James Webb Space Image Awesomeness
 
 Amazing images from the JWT curated by NASA
 
