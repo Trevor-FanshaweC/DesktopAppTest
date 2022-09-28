@@ -1,8 +1,8 @@
-!["oops, image not found"](https://hithub.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "James Webb Nebula Image")
+!["oops, image not found"](bannerImage.jpg "James Webb Nebula Image")
 
-# Learning Github Desktop
+# James Webb Astrphotography
 
-This makes things SO much easier!
+Amazing images from the JWT curated by NASA
 
 ## Contributing
 
@@ -14,7 +14,7 @@ This makes things SO much easier!
 
 ## Credits
 
-TODO: Write credits
+All images are owned by NASA.
 
 ## License
 
