@@ -2,7 +2,7 @@
 
 # Learning Github Desktop
 
-This makes things SO much easier!
+making more changes. such fun.
 
 ## Contributing
 
