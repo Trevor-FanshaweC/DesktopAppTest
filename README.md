@@ -1,3 +1,5 @@
+!["oops, image not found"](https://hithub.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "James Webb Nebula Image")
+
 # Learning Github Desktop
 
 This makes things SO much easier!
